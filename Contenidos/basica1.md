@@ -6,7 +6,7 @@ PRIMERA PROGRAMACIÓN:
      
      
 
-PRIMERA PROGRAMACIÓN: 
+SEGUNDA PROGRAMACIÓN: 
 - En este proyecto vamos a trabajar la carrera de un robot maqueen, complementado con musica y cambio de luces
 
 
