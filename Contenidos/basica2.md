@@ -3,3 +3,5 @@ PRIMERA PROGRAMACION:
 
 [Codigo Programa](microbit-modulo3_video2.hex)
 
+[Enlace Video](https://youtube.com/shorts/0P9bsOUzwaY?feature=share)
+
