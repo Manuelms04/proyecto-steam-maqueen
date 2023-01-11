@@ -3,6 +3,8 @@ PRIMERO PROGRAMACION:
 
 [Codigo Programa](microbit-modulo4_video3.hex)
 
+[Enlace video](https://youtube.com/shorts/izHQVBGrw0g)
+
 SEGUNDA PROGRAMACION: 
 - En esta programacion vamos a trabajar de como detecta el sonido el robot e inmediatamente realiza movimiento rotatorio 
 
