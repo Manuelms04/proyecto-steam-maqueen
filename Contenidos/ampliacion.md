@@ -11,3 +11,10 @@ SEGUNDA PROGRAMACION:
 [Codigo Programa](microbit-modulo4_video5.hex)
 
 [Enlace video](https://youtube.com/shorts/u9V31VVIp2Q)
+
+TERCERA PROGRAMACION: 
+- En esta pragramacion los robots trataran de evitar los obstaculos para no chocarse 
+
+[Codigo Programa](microbit-modulo4_video6.hex)
+
+[Enlace video]()
