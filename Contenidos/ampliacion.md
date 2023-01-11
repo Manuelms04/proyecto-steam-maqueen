@@ -22,6 +22,6 @@ TERCERA PROGRAMACION:
 CUARTA PROGRAMACION: 
 - En este proyecto 
 
-POR HACER [Codigo Programa](microbit-modulo4_video7.hex)
+[Codigo Programa](microbit-modulo4_video7.hex)
 
-POR HACER [Enlace video]()
+[Enlace video](https://youtube.com/shorts/uiJgEuPtmPE)
