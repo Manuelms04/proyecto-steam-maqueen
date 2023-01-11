@@ -20,7 +20,7 @@ TERCERA PROGRAMACION:
 [Enlace video](https://youtu.be/oQIr7KVatN4)
 
 CUARTA PROGRAMACION: 
-- En este proyecto 
+- En este proyecto se puede observar la autonomia del robot para seguir circulando por encima de la linea 
 
 [Codigo Programa](microbit-modulo4_video7.hex)
 
